@@ -29,6 +29,7 @@
   <img src="./assets/opendigger.png" alt="OpenDigger logo" width="120" style="display:inline-block;"/>
 </a>
 
+<p></p>
 
 如果希望为您的社区开发者生成报告，欢迎使用我们的前端代码，后端数据可以通过 GitHub API、GHArhive 或 OpenDigger 等渠道获取。
 
