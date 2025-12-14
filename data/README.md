@@ -5,7 +5,7 @@
 - 报告的数据根地址为： https://oss.open-digger.cn/antgroup/oss_dev_report_2025/
 - 本次所有拥有报告的开发者名单：https://oss.open-digger.cn/antgroup/oss_dev_report_2025/_logins.json
 - 开发者数据地址： https://oss.open-digger.cn/antgroup/oss_dev_report_2025/{login}.json ，其中 login 需替换为真实用户登录名 toLower 后的名称。
-- 开发者单项数据格式及说明（同 meta_data 文件）： https://oss.open-digger.cn/antgroup/oss_dev_report_2025/_meta_data.json ，该文件中 fileds 字段中列出了所有字段的名称、类型、说明，字段顺序为在报告页面中数据的出现顺序。
+- 开发者单项数据格式及说明（同 meta_data 文件）： https://oss.open-digger.cn/antgroup/oss_dev_report_2025/_meta_data.json ，该文件中 fields 字段中列出了所有字段的名称、类型、说明，字段顺序为在报告页面中数据的出现顺序。
 
 
 ## 哪些人会拥有报告？
